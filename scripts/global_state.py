@@ -122,7 +122,7 @@ preprocessor_aliases = {
     "color": "t2ia_color_grid",
     "clip_vision": "t2ia_style_clipvision",
     "pidinet_sketch": "t2ia_sketch_pidi",
-    "depth": "depth_midas",
+    "depth": "depth_leres",
     "normal_map": "normal_midas",
     "hed": "softedge_hed",
     "hed_safe": "softedge_hedsafe",
